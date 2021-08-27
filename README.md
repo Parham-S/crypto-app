@@ -67,13 +67,13 @@
   ```
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap :construction:
 
-1. Login/Authentication
-2. Coin List 
-3. UI/Theme
-4. CoinGecko API
-5. Portfolio Tracker
+1. Login/Authentication :key:
+2. Coin List :moneybag:
+3. UI/Design  :nail_care:
+4. CoinGecko API :lizard:
+5. Portfolio Tracker :chart_with_upwards_trend:
 
 
 
